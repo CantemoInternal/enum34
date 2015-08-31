@@ -1,0 +1,5 @@
+setup.py
+enum/doc/enum.rst
+enum/__init__.py
+enum/enum.py
+enum/test_enum.py
